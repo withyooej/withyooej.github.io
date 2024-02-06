@@ -21,9 +21,14 @@
     transition-property: box-shadow;
 }
 .small1 {
-    display: inline-block;
-    transform: perspective(1px) translateZ(0);
+    display: relative;
     font-size: 20px;
-
-
+    width: 400px;
+    height：20px;
+}
+.bit1{
+    display: relative;
+    align-items: center;
+    width: 20px;
+    height: 40px;
 }
