@@ -25,10 +25,40 @@
     font-size: 20px;
     width: 400px;
     height：20px;
+    color:#F099FF;
+}
+.small2{
+    display: relative;
+    font-size: 20px;
+    width: 400px;
+    height：20px;
+    color:#F8888FFF;
 }
 .bit1{
     display: relative;
     align-items: center;
     width: 20px;
     height: 40px;
+}
+a{
+    text-decoration:none;
+}
+.button{
+    width: 180px;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 4px;
+    line-height: 17px;
+    font-size: 17px;
+    color:#0099FF;
+    font-family: PingFang SC!important;
+    font-style: normal
+}
+.button:hover{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), #00F9FF;
+}
+.none{
+    display: flex;
+    width: 350px;
+    margin: 0 auto
 }
